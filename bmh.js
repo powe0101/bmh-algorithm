@@ -1,4 +1,5 @@
 // hyunjin.direct@gmail.com
+//https://yeu.kr/76ykz
 
 const constructBadMatchTable = (pattern) => {
     const map = new Map();
