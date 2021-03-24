@@ -1,5 +1,6 @@
 // hyunjin.direct@gmail.com
 //https://yeu.kr/76ykz
+//reference : https://www.pohkeeheng.com/notes/Boyer-Moore-Horspool-algorithm-in-Javascript
 
 const constructBadMatchTable = (pattern) => {
     const map = new Map();
