@@ -1,3 +1,5 @@
+// hyunjin.gil
+
 const constructBadMatchTable = (pattern) => {
     const map = new Map();
     const patternLength = pattern.length;
